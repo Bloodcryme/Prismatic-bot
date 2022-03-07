@@ -2,6 +2,7 @@ const { clear } = require('console');
 const Discord = require('discord.js');
 const { Client, MessageEmbed } = require('discord.js');
 const client = new Discord.Client({partials: ['MESSAGE', 'CHANNEL', 'REACTION']});
+const prefix = "!";
 const config = require('./config.json');
 const fs = require('fs');
 const { get } = require('http');
