@@ -5,7 +5,6 @@ const client = new Discord.Client({partials: ['MESSAGE', 'CHANNEL', 'REACTION']}
 const prefix = "!";
 const config = require('./config.json');
 const fs = require('fs');
-const { get } = require('http');
 client.commands = new Discord.Collection();
 
 const commandFiles = fs.readdirSync('./commands/').filter(file => file.endsWith('.js'));
@@ -99,7 +98,7 @@ client.on('message', async message => {
     const command = message.content.toLowerCase();
 
     if(command.includes('ankh') || command.includes('reincarnate')){
-        if (Math.random() > 0.3) {
+        if (Math.random() > 0.33) {
             message.channel.send("CAN ANKH");
         }
         else {
