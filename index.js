@@ -59,7 +59,7 @@ client.on('message', async message => {
         client.commands.get('aboutus').execute(message, args, Discord);
     } else if(command === 'kazuru' || command === 'kaz'){
         client.commands.get('kazurucovenant').execute(message, args, Discord);
-    } else if(command === 'dh' || command === 'demon hunters' || command === 'demonhunters' || command === 'demon hunter' || command === 'demonhunter'){
+    } else if(command === 'dh' || command === 'demonhunters' || command === 'demonhunter'){
         client.commands.get('demonhunters').execute(message, args, Discord);
     } else if(command === 'naethsmith'){
         client.commands.get('naethsmith').execute(message, args, Discord);
