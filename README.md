@@ -7,7 +7,7 @@ Some of the commands of the Prismata Group Bot :
 ```
 * !balance
 ```
-> !balancedruid
+> !balancedruid\n
 > !boomie
 > !starfall
 ```
@@ -22,7 +22,7 @@ Some of the commands of the Prismata Group Bot :
 ```
 * !dh
 ```
-> !demonhunter
+> !demonhunter\n
 > !demonhunters
 ```
 * !dog
