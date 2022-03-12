@@ -10,7 +10,6 @@ Some of the commands of the Prismata Group Bot :
     > !boomie
     > !starfall
 ```
-
 ```
 * !baldus
 ```
@@ -25,14 +24,12 @@ Some of the commands of the Prismata Group Bot :
     > !demonhunter
     > !demonhunters
 ```
-    
 ```
 * !dog
     > !doggo
     > !goodboi
     > !doggo
 ```
-    
 ```
 * !fatescribe
 ```
@@ -41,8 +38,8 @@ Some of the commands of the Prismata Group Bot :
 ```
 ```
 * !kazuru
-```
-    > !kaz
+> !kaz
+```    
 ```
 * !naeth
 ```
