@@ -54,9 +54,9 @@ Some of the commands of the Prismata Group Bot :
 ```
 ```
 * !nuggies
-```
     > !chickennuggets
     > !chickynuggies
+```    
 ```
 * !painsmith
 ```
