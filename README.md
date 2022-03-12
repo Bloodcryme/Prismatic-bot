@@ -4,7 +4,7 @@ Some of the commands of the Prismata Group Bot :
 ```
 * !aboutus
 * !balance
-> !balancedruid
+    | !balancedruid
 > !boomie
 > !starfall
 * !baldus
