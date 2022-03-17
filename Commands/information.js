@@ -12,11 +12,11 @@ module.exports= {
         "• **NSFW is not allowed** — As a community server, Discord automatically scans and deletes all media that contains explicit content.\n" +
         "• **If an officer asks you to stop doing something, stop doing it** — There may be specific situations not covered by the rules or times where the rules themselves don't fit the situation. In those particular cases, the officer team will handle it appropriately at their own discretion.\n⠀");
         const picturesocialmedia = ({files: ["./Images/links.png"]});
-        const textsocialmedia = ("<:Website:875095646506451065> <https://www.prismaticguild.com>\n" + //website
-        "<:Facebook:875095614273224714> https://tinyurl.com/prismatic-facebook\n" + //facebook
-        "<:Instagram:875095625463640115> https://www.instagram.com/prismaticguild\n" + //instagram
-        "<:Twitter:875095636716945439> https://twitter.com/Prismatic_EU\n" + //twitter
-        "<:Youtube:875095655981400125> https://tinyurl.com/prismatic-yt") //youtube
+        const textsocialmedia = ("<:Website:953691934566785065> <https://www.prismaticguild.com>\n" + //website
+        "<:Facebook:953691902971088956> https://tinyurl.com/prismatic-facebook\n" + //facebook
+        "<:Instagram:953691912173396019> https://www.instagram.com/prismaticguild\n" + //instagram
+        "<:Twitter:953691924534022184> https://twitter.com/Prismatic_EU\n" + //twitter
+        "<:Youtube:953691946768023652> https://tinyurl.com/prismatic-yt") //youtube
         message.channel.send(picturewelcome);
         setTimeout(function() {
             message.channel.send(textwelcome)
