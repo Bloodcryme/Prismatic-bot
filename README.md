@@ -2,64 +2,64 @@
 ## Bot Commands
 Some of the commands of the Prismata Group Bot :
 ```
-* !aboutus
+!aboutus
 ```
 ```
-* !balance
+!balance
     > !balancedruid
     > !boomie
     > !starfall
 ```
 ```
-* !baldus
+!baldus
 ```
 ```
-* !cat
+!cat
 ```
 ```
-* !convoke
+!convoke
 ```
 ```
-* !dh
+!dh
     > !demonhunter
     > !demonhunters
 ```
 ```
-* !dog
+!dog
     > !doggo
     > !goodboi
     > !doggo
 ```
 ```
-* !fatescribe
+!fatescribe
 ```
 ```
-* !handholding
+!handholding
 ```
 ```
-* !kazuru
+!kazuru
 > !kaz
 ```    
 ```
-* !naeth
+!naeth
 ```
 ```
-* !naethsmith
+!naethsmith
 ```
 ```
-* !naethw
+!naethw
 ```
 ```
-* !nuggies
+!nuggies
     > !chickennuggets
     > !chickynuggies
 ```    
 ```
-* !painsmith
+!painsmith
 ```
 ```
-* !sylvanas
+!sylvanas
 ```
 ```
-* !thecouncil
+!thecouncil
 ```
