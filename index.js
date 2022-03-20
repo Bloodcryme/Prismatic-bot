@@ -70,6 +70,8 @@ client.on('message', async message => {
         client.commands.get('catstickk').execute(message, args, Discord);
     } else if(command === 'baldus'){
         client.commands.get('baldus').execute(message, args, Discord);
+    } else if(command === 'commands'){
+        client.commands.get('commands').execute(message, args, Discord);
     }
 });
 
