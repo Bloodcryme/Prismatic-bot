@@ -18,6 +18,9 @@ module.exports= {
         "!nuggies / !chickennuggets / !chickynuggies\n" +
         "!painsmith\n" +
         "!sylvanas\n" +
+        "!nirwyn\n" +
+        "!gamz / !gamzkin\n" +
+        "!halondrus\n" +
         "!thecouncil```");
 
     }

@@ -72,6 +72,12 @@ client.on('message', async message => {
         client.commands.get('baldus').execute(message, args, Discord);
     } else if(command === 'commands'){
         client.commands.get('commands').execute(message, args, Discord);
+    } else if(command === 'gamz' || command === 'gamzkin'){
+        client.commands.get('gamzkin').execute(message, args, Discord);
+    } else if(command === 'nirwyn'){
+        client.commands.get('nirwyn').execute(message, args, Discord);
+    } else if(command === 'halondrus'){
+        client.commands.get('halondrus').execute(message, args, Discord);
     }
 });
 
