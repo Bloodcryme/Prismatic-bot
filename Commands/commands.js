@@ -21,7 +21,7 @@ module.exports= {
         "!nirwyn\n" +
         "!gamz / !gamzkin\n" +
         "!halondrus\n" +
-        "!yeynix" +
+        "!yeynix / !nixnix / !yeyyey" +
         "!thecouncil```");
 
     }

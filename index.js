@@ -78,7 +78,7 @@ client.on('message', async message => {
         client.commands.get('nirwyn').execute(message, args, Discord);
     } else if(command === 'halondrus'){
         client.commands.get('halondrus').execute(message, args, Discord);
-    } else if(command === 'yeynix'){
+    } else if(command === 'yeynix' || command === 'nixnix' || command === 'yeyyey'){
         client.commands.get('yeynix').execute(message, args, Discord);
     }
 });
