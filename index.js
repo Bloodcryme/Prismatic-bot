@@ -78,6 +78,8 @@ client.on('message', async message => {
         client.commands.get('nirwyn').execute(message, args, Discord);
     } else if(command === 'halondrus'){
         client.commands.get('halondrus').execute(message, args, Discord);
+    } else if(command === 'yeynix'){
+        client.commands.get('yeynix').execute(message, args, Discord);
     }
 });
 
