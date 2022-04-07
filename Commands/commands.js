@@ -8,7 +8,7 @@ module.exports= {
         "!cat\n" +
         "!convoke\n" +
         "!dh / !demonhunter / !demonhunters\n" +
-        "!dog / !doggo / !goodboi / !doggo\n" +
+        "!dog / !dogs / !goodboi / !doggo\n" +
         "!fatescribe\n" +
         "!handholding\n" +
         "!kazuru / !kaz\n" +
@@ -21,8 +21,8 @@ module.exports= {
         "!nirwyn\n" +
         "!gamz / !gamzkin\n" +
         "!halondrus\n" +
-        "!yeynix / !nixnix / !yeyyey" +
-        "!spiteful" +
+        "!yeynix / !nixnix / !yeyyey\n" +
+        "!spiteful\n" +
         "!thecouncil```");
 
     }
