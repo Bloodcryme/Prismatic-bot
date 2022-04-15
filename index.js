@@ -98,8 +98,8 @@ client.on('message', async message => {
         client.commands.get('bloodcrymestream').execute(message, args);
     } else if(command === 'nirwyn_stream'){
         client.commands.get('nirwyn_stream').execute(message, args);
-    } else if(command === 'tractiondstream'){
-        client.commands.get('tractiondstream').execute(message, args);
+    } else if(command === 'gamzkinstream'){
+        client.commands.get('gamzkinstream').execute(message, args);
     } 
 })
 
