@@ -100,6 +100,10 @@ client.on('message', async message => {
         client.commands.get('nirwyn_stream').execute(message, args);
     } else if(command === 'gamzkinstream'){
         client.commands.get('gamzkinstream').execute(message, args);
+    } else if(command === 'kazuru_tvstream'){
+        client.commands.get('kazuru_tvstream').execute(message, args);
+    } else if(command === 'amosesdotastream'){
+        client.commands.get('amosesdotastream').execute(message, args);
     } 
 })
 
