@@ -82,6 +82,12 @@ client.on('message', async message => {
         client.commands.get('yeynix').execute(message, args, Discord);
     } else if(command === 'spiteful'){
         client.commands.get('spiteful').execute(message, args, Discord);
+    } else if(command === 'anduin'){
+        client.commands.get('anduin').execute(message, args, Discord);
+    } else if(command === 'sennsay'){
+        client.commands.get('sennsay').execute(message, args, Discord);
+    } else if(command === 'miso'){
+        client.commands.get('miso').execute(message, args, Discord);
     }
 });
 
