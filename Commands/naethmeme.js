@@ -2,7 +2,7 @@ module.exports= {
     name: 'naethmeme',
     description: "naeth meme",
     execute(message, args){
-        message.channel.send({files: ["./Images/naeth.jpg"]});
+        message.channel.send({files: ["./Images/vanish.JPG"]});
 
     }
 }
