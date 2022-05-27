@@ -88,6 +88,8 @@ client.on('message', async message => {
         client.commands.get('sennsay').execute(message, args, Discord);
     } else if(command === 'miso'){
         client.commands.get('miso').execute(message, args, Discord);
+    } else if(command === 'feralgamz'){
+        client.commands.get('feralgamz').execute(message, args, Discord);
     }
 });
 
