@@ -88,7 +88,7 @@ client.on('message', async message => {
         client.commands.get('sennsay').execute(message, args, Discord);
     } else if(command === 'miso'){
         client.commands.get('miso').execute(message, args, Discord);
-    } else if(command === 'feralgamz'){
+    } else if(command === 'feralgamz' || command === 'gamzferal'){
         client.commands.get('feralgamz').execute(message, args, Discord);
     }
 });
@@ -112,6 +112,8 @@ client.on('message', async message => {
         client.commands.get('kazuru_tvstream').execute(message, args);
     } else if(command === 'amosesdotastream'){
         client.commands.get('amosesdotastream').execute(message, args);
+    } else if(command === 'wildstabxdstream'){
+        client.commands.get('wildstabxdstream').execute(message, args);
     } 
 })
 
