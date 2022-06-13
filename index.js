@@ -90,6 +90,8 @@ client.on('message', async message => {
         client.commands.get('miso').execute(message, args, Discord);
     } else if(command === 'feralgamz'){
         client.commands.get('feralgamz').execute(message, args, Discord);
+    } else if(command === 'stickk'){
+        client.commands.get('stickk').execute(message, args, Discord);
     }
 });
 
