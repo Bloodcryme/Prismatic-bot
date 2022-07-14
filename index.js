@@ -84,13 +84,11 @@ client.on('message', async message => {
         client.commands.get('miso').execute(message, args, Discord);
     } else if(command === 'feralgamz' || command === 'gamzferal'){
         client.commands.get('feralgamz').execute(message, args, Discord);
-    } else if(command === 'unpaidovertime'){
-        client.commands.get('unpaindovertime').execute(message, args, Discord);
+    } else if(command === 'unpaidovertime' || command === 'stickk'){
+        client.commands.get('stickk').execute(message, args, Discord);
     } else if(command === 'mechanics' || command === 'jailer'){
         client.commands.get('mechanics').execute(message, args, Discord);
-    } else if(command === 'stickk'){
-        client.commands.get('stickk').execute(message, args, Discord);
-    }
+    } 
 });
 
 //stream chat commands
