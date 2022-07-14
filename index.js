@@ -60,12 +60,6 @@ client.on('message', async message => {
         client.commands.get('kazurucovenant').execute(message, args, Discord);
     } else if(command === 'dh' || command === 'demonhunters' || command === 'demonhunter'){
         client.commands.get('demonhunters').execute(message, args, Discord);
-    } else if(command === 'naethsmith'){
-        client.commands.get('naethsmith').execute(message, args, Discord);
-    } else if(command === 'naeth'){
-        client.commands.get('naethmeme').execute(message, args, Discord);
-    } else if(command === 'naethw'){
-        client.commands.get('naethw').execute(message, args, Discord);
     } else if(command === 'cat' || command === 'food'){
         client.commands.get('catstickk').execute(message, args, Discord);
     } else if(command === 'baldus'){
@@ -116,8 +110,6 @@ client.on('message', async message => {
         client.commands.get('kazuru_tvstream').execute(message, args);
     } else if(command === 'amosesdotastream'){
         client.commands.get('amosesdotastream').execute(message, args);
-    } else if(command === 'wildstabxdstream'){
-        client.commands.get('wildstabxdstream').execute(message, args);
     } 
 })
 
